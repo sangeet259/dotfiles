@@ -1,8 +1,11 @@
-# dotfiles
-Repository to safely keep my dotfiles in the event of an apocalypse
+# Dot.Files
+Repository to safely keep my dotfiles to source in the event of an apocalypse
 
-Contains :
-* tmux tab completion
-* git tab completion
-* fancy git prompt
-* the .bashrc's hardlink, so that whenever I change the original .bashrc, this one get's chaneg automatically !
+## Contains :
+1 tmux tab completion
+
+2 git tab completion
+
+3 fancy git prompt
+
+4 the .bashrc's hardlink, so that whenever I change the original .bashrc, this one get's chaneg automatically !
