@@ -1,0 +1,19 @@
+[user]
+	email = mail2sangeetmishra@gmail.com
+	name = sangeet259
+
+[alias]
+    st = status
+    cm = commit -m
+    cb = checkout -b
+    swap = checkout -
+    pom = push origin master
+    po = push origin 
+    lg = log
+    
+# [http]
+	# proxy = "http://172.16.2.30:8080"
+# [https]
+	# proxy = "http://172.16.2.30:8080"
+[url "https://"]
+	insteadOf = git://
